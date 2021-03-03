@@ -1,0 +1,10 @@
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\bin\Debug\UsingJavaScriptFunctionInCSharp.exe.config
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\bin\Debug\UsingJavaScriptFunctionInCSharp.exe
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\bin\Debug\UsingJavaScriptFunctionInCSharp.pdb
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\obj\Debug\UsingJavaScriptFunctionInCSharp.csprojAssemblyReference.cache
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\obj\Debug\UsingJavaScriptFunctionInCSharp.Form1.resources
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\obj\Debug\UsingJavaScriptFunctionInCSharp.Properties.Resources.resources
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\obj\Debug\UsingJavaScriptFunctionInCSharp.csproj.GenerateResource.cache
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\obj\Debug\UsingJavaScriptFunctionInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\obj\Debug\UsingJavaScriptFunctionInCSharp.exe
+C:\Users\MARKH\source\repos\UsingJavaScriptFunctionInCSharp\obj\Debug\UsingJavaScriptFunctionInCSharp.pdb
